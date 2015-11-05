@@ -1,0 +1,39 @@
+.jumbotron.header{
+	background-image:url('./images/header-background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 550px;
+	padding:5px;
+}
+
+.jumbotron.header .row{
+	width: 100%;
+}
+
+.header-desc{
+	margin-top: 130px;
+	text-align: center;
+	
+}
+
+.header-desc h1 {
+	color: white;
+	font-size: 48px;
+	font-weight: bolder;
+	text-shadow: 2px 3px 2px rgba(0, 0, 0, 0.3);
+	font-family: 'helvetica', 'arial', 'sans serif';
+}
+
+.header-desc p {
+	color: white;
+	font-size: 20px;
+	text-shadow: 2px 3px 2px rgba(0, 0, 0, 0.3);
+	font-family: 'helvetica', 'arial', 'sans serif';
+}
+
+.jumbotron .container{
+	margin: 5px;
+	position: relative;
+	top:5px;
+	width:100%;
+}
