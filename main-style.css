@@ -143,3 +143,57 @@
     height: auto;
     width: 100%;
 }
+
+.footer-overlay{
+    background-color: black;
+    opacity: 0.5;
+
+}
+
+.jumbotron.footer {
+    background-image: url('./images/playing-guitar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    padding: 5px;
+    margin: 0px;
+    margin-top: 50px;
+}
+
+.footer-desc {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.footer-desc h1 {
+    color: white;
+    font-size: 48px;
+    font-weight: bolder;
+    text-shadow: 2px 3px 2px rgba(0, 0, 0, 0.3);
+    font-family: 'helvetica', 'arial', 'sans serif';
+}
+
+.footer-desc p {
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 3px 2px rgba(0, 0, 0, 0.3);
+    font-family: 'helvetica', 'arial', 'sans serif';
+}
+
+.jumbotron .container {
+    margin: 5px;
+    position: relative;
+    top: 5px;
+    width: 100%;
+}
+
+.footer-pattern{
+    background-image: url('./images/escheresque_ste.png');
+    background-repeat: repeat;
+    width:100%;
+    height: 250px;
+}
+
+.footer-pattern img{
+    margin: 50px;
+}
