@@ -40,8 +40,8 @@
 }
 
 .content{
-    height: 500px;
-    width: 1000px;
+    height: auto;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -105,4 +105,10 @@
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 20px;
+}
+
+.content .thumbnail {
+    border: 0 none;
+    box-shadow: none;
+    margin: 0 auto;
 }
