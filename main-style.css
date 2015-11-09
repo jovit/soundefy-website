@@ -191,9 +191,17 @@
     background-image: url('./images/escheresque_ste.png');
     background-repeat: repeat;
     width:100%;
-    height: 250px;
+    height: 150px;
 }
 
 .footer-pattern img{
-    margin: 50px;
+    margin: 20px;
+}
+
+.footer-pattern{
+    color: white;
+}
+
+.logo{
+    height:100px;
 }
